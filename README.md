@@ -11,5 +11,5 @@ I spent most of my time in regular iOS App Development working on this project w
 
 ## 2022
 
-[EPHS Word Game](https://github.com/90306479/MessagingApp)
+[EPHS Word Game](https://github.com/90306479/EPWordGuess)
 For the past couple months, this is an app that I have been working on with a partner. It is an iMessages game that resembles the popular word game "Wordle" but is designed to be played with someone else. This is my first time working on a high-level iMessage app.
